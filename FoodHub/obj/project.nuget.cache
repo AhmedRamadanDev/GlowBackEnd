@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "suEuzSSyPaovG3RMGYR5f337MVGLz8NZTz6A/1Q7Zi03kQ+lqruLzfGmQALru1ROq2ErbRsTYatb/irfMsub9w==",
+  "dgSpecHash": "rG+Pv3bpYZ+u54Fb95pKVGbakjBZHzqtAsnGhIE6UO3QHvRz+4SvE1AA7Tl/qmWBBIZkMTLn9hX1AH7IN4LoxQ==",
   "success": true,
   "projectFilePath": "D:\\source\\repos\\foodHub-Codebase-master\\FoodHub\\FoodHub.csproj",
   "expectedPackageFiles": [
@@ -14,7 +14,7 @@
     "C:\\Users\\abdo\\.nuget\\packages\\identitymodel\\5.1.0\\identitymodel.5.1.0.nupkg.sha512",
     "C:\\Users\\abdo\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\abdo\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
-    "C:\\Users\\abdo\\.nuget\\packages\\messagepackanalyzer\\2.1.152\\messagepackanalyzer.2.1.152.nupkg.sha512",
+    "C:\\Users\\abdo\\.nuget\\packages\\messagepackanalyzer\\2.4.35\\messagepackanalyzer.2.4.35.nupkg.sha512",
     "C:\\Users\\abdo\\.nuget\\packages\\microsoft.aspnetcore.apiauthorization.identityserver\\6.0.5\\microsoft.aspnetcore.apiauthorization.identityserver.6.0.5.nupkg.sha512",
     "C:\\Users\\abdo\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.5\\microsoft.aspnetcore.authentication.jwtbearer.6.0.5.nupkg.sha512",
     "C:\\Users\\abdo\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.0\\microsoft.aspnetcore.authentication.openidconnect.5.0.0.nupkg.sha512",

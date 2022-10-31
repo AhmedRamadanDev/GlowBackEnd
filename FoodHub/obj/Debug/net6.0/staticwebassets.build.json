@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ls8GU7riwhQ+V4tNti7EWGHI3gUrvNISm+q/N5FcnpY=",
+  "Hash": "wVWrVUxXN6Rugn64DVM1NkLMwg2/RLwhvHxTZQ6YiUY=",
   "Source": "FoodHub",
   "BasePath": "_content/FoodHub",
   "Mode": "Default",
@@ -32,6 +32,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Category\\0514da39-f35a-4d46-9c9d-6a510e1cc533_WhatsApp Image 2022-07-09 at 10.52.30 PM.jpeg"
+    },
+    {
+      "Identity": "D:\\source\\repos\\foodHub-Codebase-master\\FoodHub\\wwwroot\\Images\\Category\\38346d1b-3815-4f91-9cff-3e3c8a13d753_WhatsApp Image 2022-07-09 at 10.52.30 PM.jpeg",
+      "SourceId": "FoodHub",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\source\\repos\\foodHub-Codebase-master\\FoodHub\\wwwroot\\",
+      "BasePath": "_content/FoodHub",
+      "RelativePath": "Images/Category/38346d1b-3815-4f91-9cff-3e3c8a13d753_WhatsApp Image 2022-07-09 at 10.52.30 PM.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Category\\38346d1b-3815-4f91-9cff-3e3c8a13d753_WhatsApp Image 2022-07-09 at 10.52.30 PM.jpeg"
     },
     {
       "Identity": "D:\\source\\repos\\foodHub-Codebase-master\\FoodHub\\wwwroot\\Images\\index.jpg",
