@@ -64,13 +64,7 @@ namespace FoodHub.Models
     public class RegisterUserDto
     {
         [Required]
-        public string FirstName { get; set; } = null!;
-        [Required]
-        public string MiddleName { get; set; } = null!;
-        [Required]
-        public string LastName { get; set; } = null!;
-        [Required]
-        public string UserName { get; set; } = null!;
+        public string Name { get; set; } = null!;
         [Required]
         public string Email { get; set; } = null!;
         [Required]

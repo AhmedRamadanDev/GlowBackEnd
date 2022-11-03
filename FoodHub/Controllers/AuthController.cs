@@ -41,7 +41,7 @@ namespace FoodHub.Controllers
 
 
 
-        [HttpPost]
+        [HttpPost("registration")]
         public async Task<ActionResult<UserDto>> PostUser(RegisterUserDto data)
         {
             if (_context.Users == null)
@@ -96,8 +96,7 @@ namespace FoodHub.Controllers
 
             User user = new()
             {
-                Name = $"{data.FirstName} {data.MiddleName} {data.LastName}",
-                UserName = data.UserName,
+                Name = data.Name,
                 Email = data.Email,
                 PhoneNumber = data.PhoneNumber,
                 EmailConfirmed = true

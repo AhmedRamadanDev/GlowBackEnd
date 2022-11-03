@@ -182,8 +182,7 @@ namespace FoodHub.Controllers
 
             User user = new()
             {
-                Name = $"{data.FirstName} {data.MiddleName} {data.LastName}",
-                UserName = data.UserName,
+                Name = data.Name,
                 Email = data.Email,
                 PhoneNumber = data.PhoneNumber,
                 EmailConfirmed = true
